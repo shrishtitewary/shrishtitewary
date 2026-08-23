@@ -15,8 +15,6 @@
 
 ### 💻 Languages and Tools
 
-### 💻 Languages and Tools
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
