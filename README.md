@@ -1,61 +1,38 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=220&section=header&text=SHRISHTI%20TEWARY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Accessible%2C%20User-Centric%20Web%20Apps&descAlignY=55&descSize=18" />
-
-</div>
-
-<h3 align="center">Hi there, I'm Shrishti 👋</h3>
-
 <p align="center">
-Computer Science Undergraduate · Full Stack Developer · Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D6E8C,50:4A5C8C,100:34495E&height=220&section=header&text=SHRISHTI%20TEWARY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Accessible,%20User-Centric%20Web%20Apps&descAlignY=55&descSize=18" />
 </p>
 
-<p align="center">
-<i>Building accessible, scalable applications that solve real-world problems for underserved communities.</i>
-</p>
+<h1 align="center">Hi 👋, I'm Shrishti</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:shrishtitewary12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/YOUR-GITHUB-HANDLE"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shrishti-tewary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrishti-tewary" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🚀 Currently Working On
+### 💻 Languages and Tools
 
-- 🎓 **B.Tech in Computer Science** at KJ Somaiya Institute of Technology, Mumbai (CGPA 9.7) — batch of 2028
-- 🌍 **Accessibility-first web platforms** for underserved and low-tech user communities
-- 🧑‍🤝‍🧑 **GenBridge** — a platform connecting senior citizens with verified young helpers, featuring real-time tracking and role-based interfaces
-- 🛍️ **Sabal Avsar** — a responsive, multilingual e-commerce platform empowering rural women to sell handmade products
+<p align="left">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+</p>
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Web Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,py,js,html,css,react,nodejs,mongodb,mysql,postgres,git,github,figma&theme=dark" />
+</p>
 
 ---
 
@@ -63,18 +40,22 @@ Computer Science Undergraduate · Full Stack Developer · Problem Solver
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🛍️ Sabal Avsar**
-Responsive e-commerce platform enabling rural women to sell handmade products. Role-based seller/buyer interfaces, multilingual support, and intuitive low-tech UI for digital inclusion.
+_Team Project — Semester III_
+
+A responsive e-commerce platform enabling rural women to sell handmade products. Built role-based interfaces for sellers and buyers, with multilingual support and an intuitive UI designed for low-tech users — promoting digital inclusion and income opportunities for underserved communities.
 
 `React.js` `Node.js` `MongoDB`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🤝 GenBridge**
-Web platform connecting senior citizens with verified young helpers. Task posting, real-time tracking, and review systems focused on safety and accessibility.
+_Team Project — Semester IV_
+
+A web-based platform connecting senior citizens with verified young helpers for daily assistance. Features role-based interfaces for helpers and seekers, task posting, real-time tracking, and a review system — focused on safety, ease of use, and intergenerational community engagement.
 
 `React.js` `Node.js` `MongoDB` · [🔗 Live Demo](#)
 
@@ -84,27 +65,6 @@ Web platform connecting senior citizens with verified young helpers. Task postin
 
 ---
 
-### 🏆 Achievements & Certifications
-
-- ✅ Java Training by **IIT Bombay** (Spoken Tutorial) — Scored 80% (4 credits)
-- ✅ Rated **"Excellent"** in AICTE Student Learning Assessment (Databases & DSA)
-- 🏅 KJSIT Campus Hackathon 2025 — Institution's Innovation Council
-- 🏅 TechnoGenesis 2K25 Poster Competition — KJSIT & IET Mumbai
-- 🏅 National-Level Project Competition — KJSIT-IET INTECH 2K26
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HANDLE&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-HANDLE&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34495E,50:4A5C8C,100:6D6E8C&height=100&section=footer" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-HANDLE&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-<p align="center"><i>💡 Passionate about building technology that creates real-world impact, one accessible interface at a time.</i></p>
