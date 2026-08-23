@@ -7,12 +7,10 @@
 <h3 align="center">Coding with purpose 🌱--I am a passionate developer with a focus on creating accessible and user-friendly applications. I enjoy collaborating on projects that make a positive impact and continuously learning new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shrishti-tewary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrishti-tewary" height="30" width="40" /></a>
-<a href="mailto:shrishtitewary12@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="28" /></a>
+<a href="https://linkedin.com/in/shrishti-tewary" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:shrishtitewary12@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
-
 ---
 
 ### 💻 Languages and Tools
